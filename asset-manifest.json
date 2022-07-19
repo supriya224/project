@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/credr-task/static/css/main.a7833f6e.css",
-    "main.js": "/credr-task/static/js/main.388b3e1e.js",
-    "static/js/787.e1234156.chunk.js": "/credr-task/static/js/787.e1234156.chunk.js",
-    "index.html": "/credr-task/index.html",
-    "main.a7833f6e.css.map": "/credr-task/static/css/main.a7833f6e.css.map",
-    "main.388b3e1e.js.map": "/credr-task/static/js/main.388b3e1e.js.map",
-    "787.e1234156.chunk.js.map": "/credr-task/static/js/787.e1234156.chunk.js.map"
+    "main.css": "/project/static/css/main.17ae085e.css",
+    "main.js": "/project/static/js/main.e9bef56d.js",
+    "static/media/andriod.png": "/project/static/media/andriod.5700696814d6b2fab9e5.png",
+    "static/media/img1.jpg": "/project/static/media/img1.5ba1e2c9fc32aa1a446d.jpg",
+    "index.html": "/project/index.html",
+    "main.17ae085e.css.map": "/project/static/css/main.17ae085e.css.map",
+    "main.e9bef56d.js.map": "/project/static/js/main.e9bef56d.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7833f6e.css",
-    "static/js/main.388b3e1e.js"
+    "static/css/main.17ae085e.css",
+    "static/js/main.e9bef56d.js"
   ]
 }
