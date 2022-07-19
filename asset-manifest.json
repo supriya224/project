@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.17ae085e.css",
-    "main.js": "/static/js/main.87291017.js",
-    "static/media/andriod.png": "/static/media/andriod.5700696814d6b2fab9e5.png",
-    "static/media/img1.jpg": "/static/media/img1.5ba1e2c9fc32aa1a446d.jpg",
-    "index.html": "/index.html",
-    "main.17ae085e.css.map": "/static/css/main.17ae085e.css.map",
-    "main.87291017.js.map": "/static/js/main.87291017.js.map"
+    "main.css": "/project/static/css/main.17ae085e.css",
+    "main.js": "/project/static/js/main.e9bef56d.js",
+    "static/media/andriod.png": "/project/static/media/andriod.5700696814d6b2fab9e5.png",
+    "static/media/img1.jpg": "/project/static/media/img1.5ba1e2c9fc32aa1a446d.jpg",
+    "index.html": "/project/index.html",
+    "main.17ae085e.css.map": "/project/static/css/main.17ae085e.css.map",
+    "main.e9bef56d.js.map": "/project/static/js/main.e9bef56d.js.map"
   },
   "entrypoints": [
     "static/css/main.17ae085e.css",
-    "static/js/main.87291017.js"
+    "static/js/main.e9bef56d.js"
   ]
 }
